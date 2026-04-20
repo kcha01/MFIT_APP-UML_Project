@@ -19,20 +19,25 @@ W plikach pdf znajdują się: dokument wizji systemu oraz 3 specyfikacje przypad
 #### Diagramy sekwencji
 
 Umówienie się na trening
+
 ![Model sekwencji umów na trening](https://github.com/kcha01/MFIT_APP-UML_Project/blob/master/Screenshots/sekwencji_um%C3%B3w_na_trening.PNG?raw=true)
 
 Wysyłanie planów treningowych
+
 ![Model sekwencji wysyłanie planów](https://github.com/kcha01/MFIT_APP-UML_Project/blob/master/Screenshots/sekwencji_plan_treningowy.PNG?raw=true)
 
 Wysyłanie opinii
+
 ![Model sekwencji wysyłanie opinii](https://github.com/kcha01/MFIT_APP-UML_Project/blob/master/Screenshots/sekwencji_opinia.PNG?raw=true)
 
 #### Diagramy komunikacji
 
 Wysyłanie planów treningowych
+
 ![komunikacji wysyłanie planów](https://github.com/kcha01/MFIT_APP-UML_Project/blob/master/Screenshots/komunikacji_wysy%C5%82anie_plan%C3%B3w.PNG?raw=true)
 
 Dodanie opinii
+
 ![komunikacji opinia](https://github.com/kcha01/MFIT_APP-UML_Project/blob/master/Screenshots/komunikacji_opinia.PNG?raw=true)
 
 #### Diagram maszyny stanowej
@@ -46,4 +51,5 @@ Dodanie opinii
 ### Model rozlokowania
 
 Diagram wdrożeniowy całego systemu
+
 ![wdrożeniowy](https://github.com/kcha01/MFIT_APP-UML_Project/blob/master/Screenshots/wdrozeniowy.PNG?raw=true)
